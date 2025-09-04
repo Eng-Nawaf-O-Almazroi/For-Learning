@@ -33,3 +33,5 @@ function findEmployeeById(employeeId) {
       document.getElementById('employeesDetails').innerHTML = 'لم يتم العثور على أي موظف بهذا المعرف';
      }
  }
+
+ console.log("ملف معدل");
